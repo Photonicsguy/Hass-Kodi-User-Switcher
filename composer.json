@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-mqtt/client": "^1.8",
+        "textalk/websocket": "^1.6"
+    }
+}

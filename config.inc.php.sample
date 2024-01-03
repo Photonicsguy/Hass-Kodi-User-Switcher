@@ -1,0 +1,24 @@
+<?PHP
+
+// Config file for kodi HomeAssistant user switcher
+//
+//
+// 
+
+
+// Kodi Websocket
+define('KODI_WS','ws://USER:PASS@HOST:9090/jsonrpc');
+
+
+// MQTT Config
+define('MQTTHOST','');
+define('MQTTUSER','');
+define('MQTTPASS','');
+define('MQTTPORT',1883);
+
+// MQTT client ID and Topic, probably best to leave as 'kodi';
+define('MQTTCLIENTID', 'kodi');
+define('MQTTTOPIC','kodi');
+
+
+?>
