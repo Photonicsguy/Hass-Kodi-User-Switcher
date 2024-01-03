@@ -21,3 +21,6 @@ Configuration is straightforward, edit config.inc.php and add your Kodi websocke
 ## Running
 At this time, the script runs in a loop. 
 I highly recommend running it in a screen session.
+```
+./kodiUserSwitcher.php
+```
